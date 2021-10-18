@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @stl-lucas
+- 👀 I’m interested in software development.
+- 🌱 I’m currently learning and working in the .NET framework using C#, Angular JS, MongoDB, and SQL.
+- 💞️ I’m looking to collaborate on any fun and excited web applictions.
+- 📫 How to reach me: lucas.timothy@icloud.com.
